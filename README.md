@@ -8,11 +8,11 @@ This repo is for Shoipify data science intern role analysis challenge.
 * When using the AOV, calculation done with average order amount without taking into account the number of pairs of shoes purchased in each transaction.
 * there are some transactions that are extream/outliers/error:The 17 indentical transactions that included 2000 purchases each are driving up the AOV.
 
-## Question 1b.: 
+## Question 1b.
 ### What metric would you report for this dataset?
 * As far as I think because of some unsual extream data points we should calculate our AOV according to **Median**, which give more better overview of each transactions and will not affect with extreame cases or outliers.
 
-## Question 1c.:
+## Question 1c.
 ### What is its value?
 * I would say **284** is more reasonable value defined by median of datasat for AOV compare to 3145.128 which lead by extrme points/outliers.
 
